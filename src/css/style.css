@@ -5,7 +5,13 @@
     box-sizing: border-box;
 }
 
+header{
+    height: 50px;
+}
 
+footer{
+    height: 80px;
+}
 
 .section{
     width: 100px;
